@@ -76,14 +76,15 @@ width: 100%;
   header{
     width: 100%;
     height: 50px;
-    margin-bottom: 30px;
+    margin-bottom: 50px;
   }
+}
 
 @media screen and (max-width:768px) {
   .step-box {
     width: 90%;
-    margin: 20px;
-    padding: 0;
+    margin: 0 5% 20px 5%;
+    padding: 10px;
   }
   }
   
@@ -96,5 +97,5 @@ width: 100%;
 @media screen and (max-width:768px) {
   .step-img1,.step-img2,.step-img3 {
     height: 150px;
-  }
+}
 }
